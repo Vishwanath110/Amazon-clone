@@ -1,0 +1,30 @@
+.hm {
+    background-image: url("./acimg/backgrooundimg/beauty.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center;
+    height: 100vh; 
+    margin-left: 12px;
+    margin-right: 12px;
+  }
+
+  .arr{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .arrow{
+    display: flex;
+   align-items: center; 
+   justify-content: center; 
+   height: 250px;
+   width: 80px;
+    
+  }
+
+  .arrow:hover{
+    border: 2px solid black;
+  }
+  
+
+ 

@@ -1,0 +1,158 @@
+.a-logo{
+    size: 100%;
+    height: 40px;
+    margin-top: 5px;
+    width: 120px;
+    object-fit: cover;
+}
+
+.mainheader{
+    background-color: rgb(49, 40, 77);
+}
+
+.header{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    height: 60px;
+    position: sticky;
+    align-items: center;
+    
+}
+
+.header_searchicon{
+    background-color: #ebab59;
+    padding: 5px;
+    height: 30px !important;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.search{
+    display: flex;
+    flex:1;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.search:hover{
+    border:2px solid #ebab59;
+}
+
+.header_searchinput{
+    height: 20px;
+    padding: 10px;
+    border: none;
+    width: 100%;
+}
+
+
+.header_location{
+    color: white;
+    display: flex;
+    align-items: center;
+    margin: 5px;
+}
+
+.locsub{
+    font-size: 13px;
+    padding: 5px;
+}
+
+.option{
+    color:white;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    margin: 5px;
+}
+
+.text{
+    font-size: 12px;
+}
+
+.option_sub{
+    font-size: 14px;
+    line-height: 15px;
+    font-weight: 700;
+}
+
+.header_options{
+    display: flex;
+    align-items: center;
+}
+
+.header_sel{
+    height: 40px;
+    width: 50px;
+    padding: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    background-color: rgb(231, 223, 223);
+    border: none;
+}
+
+.header_sel2{
+    font-weight: 600;
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+
+.cart{
+    display: flex;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    margin-right: 5px;
+    align-items: center;
+}
+
+.nav{
+    height: 40px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: rgb(49, 40, 77);
+}
+
+.navbar{
+    padding: 5px;
+    margin: 5px;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    font-weight: 600;
+}
+
+.lang{
+    background-color: transparent;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.micon{
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    margin-top: 9px;
+}
+
+.atag{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+
+.usflag{
+    width: 18px;
+    height: 15px;
+    padding: 2px;
+    margin-top: 9px;
+
+}
