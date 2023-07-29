@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Last.css"
+import './Last.css';
 
 function Last() {
   return (
