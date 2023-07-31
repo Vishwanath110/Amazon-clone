@@ -49,6 +49,29 @@ function Last() {
 
 
         <div className="lnav2">
+          <div className="v1">
+            <div className='vdiv'>
+              Amazon Music stream millions of songs
+            </div>
+            <div className='vdiv'>
+              Amazon Advertising Find,attract, and engage customers
+            </div>
+            <div className='vdiv'>
+              6pm Score deals on fashion brands
+            </div>
+            <div className='vdiv'>
+              AbeBooks Books,art &collectibles
+            </div>
+            <div className='vdiv'>
+              ACX Audiobook Publishing Made Easy
+            </div>
+            <div className='vdiv'>
+              Sell on Amazon Start a Selling Account
+            </div>
+            <div className='vdiv'>
+              Amazon Business Everything For Your Business
+            </div>
+          </div>
           
         </div>
     </div>
