@@ -12,17 +12,30 @@
 
 .lfirst{
     background-color: #232F3E;
-    color: white;
+    color: rgb(212, 210, 210);
     display: flex;
     justify-content: center;
     padding: 10px;
 }
 
-.lfirst div{
+.ln{
     margin: 20px;
     padding: 5px;
-    width: 170px;
-    margin-left: 50px;
+    width: 150px;
+    size: 12px;
+    margin-left: 70px;
+}
+
+.ln2{
+    margin: 20px;
+    padding: 5px;
+    size: 12px;
+    width: 180px;
+    margin-left: 70px;
+}
+
+.strlast{
+    color: white;
 }
 
 .a-logo{
@@ -74,19 +87,26 @@
 
 .lnav2{
     background-color: #111;
-    width: 100%;
     color: white;
 }
 
 .v1{
     display: flex;
     padding: 10px;
+    margin-left: 200px;
+    margin-right: 220px;
+    color: rgb(162, 162, 162);
     justify-content: center;
 }
 
 .vdiv{
-    margin: 10px;
+    margin: 5px;
     width: 100px;
-    margin-left: 60px;
+    font-size: 12px;
+    margin-left: 50px;
     cursor: pointer;
+}
+
+.sl2{
+    color: rgb(198, 194, 194);
 }

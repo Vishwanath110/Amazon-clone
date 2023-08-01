@@ -13,17 +13,17 @@ function Last() {
 
         <div className="lastnav">
         <div className="lfirst">
-            <div>
-                <strong> Get to Know Us </strong><br /> Careers <br /> Blog <br /> About Amazon <br /> Investor Relations <br />Amazon Devices <br />Amazon Science
+            <div className='ln'>
+                <strong className='strlast'> Get to Know Us </strong><br /> Careers <br /> Blog <br /> About Amazon <br /> Investor Relations <br />Amazon Devices <br />Amazon Science
             </div>
-            <div>
-              <strong>Make Money with Us</strong>  <br /> Sell products on Amazon <br />Sell on Amazon Business <br /> Sell apps on Amazon <br /> Become an Affiliate <br />Advertise Your Products <br />Self-Publish with Us <br />Host an Amazon Hub <br />See More Make Money with Us
+            <div className='ln2'>
+              <strong className='strlast'>Make Money with Us</strong>  <br /> Sell products on Amazon <br />Sell on Amazon Business <br /> Sell apps on Amazon <br /> Become an Affiliate <br />Advertise Your Products <br />Self-Publish with Us <br />Host an Amazon Hub <br />See More Make Money with Us
             </div>
-            <div>
-             <strong>Amazon Payment Products</strong>  <br />Amazon Business Card <br />Shop with Points <br />Reload Your Balance <br />Amazon Currency Converter
+            <div className='ln2'>
+             <strong className='strlast'>Amazon Payment Products</strong>  <br />Amazon Business Card <br />Shop with Points <br />Reload Your Balance <br />Amazon Currency Converter
             </div>
-            <div>
-              <strong>Let Us Help You</strong>  <br />Amazon and Covid-19 <br />Your Account <br />Your Orders <br />Shipping Rates & Policies <br />Return & Replacements <br />Manage Your Content and Devices <br />Amazon Assistant <br />Help
+            <div className='ln'>
+              <strong className='strlast'>Let Us Help You</strong>  <br />Amazon and Covid-19 <br />Your Account <br />Your Orders <br />Shipping Rates & Policies <br />Return & Replacements <br />Manage Your Content and Devices <br />Amazon Assistant <br />Help
             </div>
         </div>
         <hr />
@@ -47,32 +47,105 @@ function Last() {
         </div>
         </div>
 
+      
 
         <div className="lnav2">
           <div className="v1">
             <div className='vdiv'>
-              Amazon Music stream millions of songs
+              <strong className="sl2"> Amazon Music </strong> stream millions of songs
             </div>
             <div className='vdiv'>
-              Amazon Advertising Find,attract, and engage customers
+            <strong className="sl2"> Amazon Advertising </strong> Find,attract, and engage customers
             </div>
             <div className='vdiv'>
-              6pm Score deals on fashion brands
+            <strong className="sl2"> 6pm </strong> <br /> Score deals on fashion brands
             </div>
             <div className='vdiv'>
-              AbeBooks Books,art &collectibles
+            <strong className="sl2"> AbeBooks </strong> Books,art &collectibles
             </div>
             <div className='vdiv'>
-              ACX Audiobook Publishing Made Easy
+            <strong className="sl2"> ACX </strong> <br /> Audiobook Publishing Made Easy
             </div>
             <div className='vdiv'>
-              Sell on Amazon Start a Selling Account
+            <strong className="sl2"> Sell on Amazon </strong> Start a Selling Account
             </div>
             <div className='vdiv'>
-              Amazon Business Everything For Your Business
+            <strong className="sl2"> Amazon Business </strong> Everything For Your Business
             </div>
           </div>
           
+          <div className="v1">
+            <div className='vdiv'>
+              <strong className="sl2"> Amazon Music </strong> stream millions of songs
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> Amazon Advertising </strong> Find,attract, and engage customers
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> 6pm </strong> <br /> Score deals on fashion brands
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> AbeBooks </strong> Books,art &collectibles
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> ACX </strong> <br /> Audiobook Publishing Made Easy
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> Sell on Amazon </strong> Start a Selling Account
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> Amazon Business </strong> Everything For Your Business
+            </div>
+          </div>
+
+          <div className="v1">
+            <div className='vdiv'>
+              <strong className="sl2"> Amazon Music </strong> stream millions of songs
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> Amazon Advertising </strong> Find,attract, and engage customers
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> 6pm </strong> <br /> Score deals on fashion brands
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> AbeBooks </strong> Books,art &collectibles
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> ACX </strong> <br /> Audiobook Publishing Made Easy
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> Sell on Amazon </strong> Start a Selling Account
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> Amazon Business </strong> Everything For Your Business
+            </div>
+          </div>
+
+          <div className="v1">
+            <div className='vdiv'>
+              <strong className="sl2"> Amazon Music </strong> stream millions of songs
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> Amazon Advertising </strong> Find,attract, and engage customers
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> 6pm </strong> <br /> Score deals on fashion brands
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> AbeBooks </strong> Books,art &collectibles
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> ACX </strong> <br /> Audiobook Publishing Made Easy
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> Sell on Amazon </strong> Start a Selling Account
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> Amazon Business </strong> Everything For Your Business
+            </div>
+          </div>
+
         </div>
     </div>
   )
