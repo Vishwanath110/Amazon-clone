@@ -81,13 +81,15 @@ function Header() {
         </div>
       </div>
 
+      <Link to="/cart">
       <div className="cart">
         <ShoppingCartOutlinedIcon fontSize="large" className='carticon' />
         <div>
           <div className='cartcount'>0</div>
-          <div><strong>Cart</strong></div>
+          <div><strong >Cart</strong></div>
         </div>
       </div>
+      </Link>
 
      </div>
     </div>

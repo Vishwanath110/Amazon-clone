@@ -76,73 +76,97 @@ function Last() {
           
           <div className="v1">
             <div className='vdiv'>
-              <strong className="sl2"> Amazon Music </strong> stream millions of songs
+              <strong className="sl2"> AmazonGlobal </strong> Ship Orders Internationally
             </div>
             <div className='vdiv'>
-            <strong className="sl2"> Amazon Advertising </strong> Find,attract, and engage customers
+            <strong className="sl2"> Home Services </strong> Experienced Pros Happiness Guarentee
             </div>
             <div className='vdiv'>
-            <strong className="sl2"> 6pm </strong> <br /> Score deals on fashion brands
+            <strong className="sl2"> Amazon Ignite </strong> <br /> Sell your original Digital Educational Resources
             </div>
             <div className='vdiv'>
-            <strong className="sl2"> AbeBooks </strong> Books,art &collectibles
+            <strong className="sl2"> Amazon Web services  </strong> Scalable Cloud Computing Services
             </div>
             <div className='vdiv'>
-            <strong className="sl2"> ACX </strong> <br /> Audiobook Publishing Made Easy
+            <strong className="sl2"> Audible</strong> <br /> Listen to Books & Original Audio Performances
             </div>
             <div className='vdiv'>
-            <strong className="sl2"> Sell on Amazon </strong> Start a Selling Account
+            <strong className="sl2"> Book Depository </strong> Books With Free Delivery Worldwide
             </div>
             <div className='vdiv'>
-            <strong className="sl2"> Amazon Business </strong> Everything For Your Business
-            </div>
-          </div>
-
-          <div className="v1">
-            <div className='vdiv'>
-              <strong className="sl2"> Amazon Music </strong> stream millions of songs
-            </div>
-            <div className='vdiv'>
-            <strong className="sl2"> Amazon Advertising </strong> Find,attract, and engage customers
-            </div>
-            <div className='vdiv'>
-            <strong className="sl2"> 6pm </strong> <br /> Score deals on fashion brands
-            </div>
-            <div className='vdiv'>
-            <strong className="sl2"> AbeBooks </strong> Books,art &collectibles
-            </div>
-            <div className='vdiv'>
-            <strong className="sl2"> ACX </strong> <br /> Audiobook Publishing Made Easy
-            </div>
-            <div className='vdiv'>
-            <strong className="sl2"> Sell on Amazon </strong> Start a Selling Account
-            </div>
-            <div className='vdiv'>
-            <strong className="sl2"> Amazon Business </strong> Everything For Your Business
+            <strong className="sl2"> Box Office Mojo </strong> Find Movie Box Office Data
             </div>
           </div>
 
           <div className="v1">
             <div className='vdiv'>
-              <strong className="sl2"> Amazon Music </strong> stream millions of songs
+              <strong className="sl2"> ComlXology </strong> Thousends of Digital Comics
             </div>
             <div className='vdiv'>
-            <strong className="sl2"> Amazon Advertising </strong> Find,attract, and engage customers
+            <strong className="sl2"> DPReview </strong> Digital Photography
             </div>
             <div className='vdiv'>
-            <strong className="sl2"> 6pm </strong> <br /> Score deals on fashion brands
+            <strong className="sl2"> Fabric </strong> <br /> Sewing, Qullting & Knitting
             </div>
             <div className='vdiv'>
-            <strong className="sl2"> AbeBooks </strong> Books,art &collectibles
+            <strong className="sl2"> Goodreads </strong> Book reviews & recommendations
             </div>
             <div className='vdiv'>
-            <strong className="sl2"> ACX </strong> <br /> Audiobook Publishing Made Easy
+            <strong className="sl2"> IMDb </strong> <br /> Movies, TV & Celebrities
             </div>
             <div className='vdiv'>
-            <strong className="sl2"> Sell on Amazon </strong> Start a Selling Account
+            <strong className="sl2"> IMDbPro </strong> Get info Entertainment Professionals Need
             </div>
             <div className='vdiv'>
-            <strong className="sl2"> Amazon Business </strong> Everything For Your Business
+            <strong className="sl2"> Kindle Direct Publishing </strong> Indle Digital & Print Publishing Made Easy
+            </div>
+          </div>
+
+          <div className="v1">
+            <div className='vdiv'>
+              <strong className="sl2"> Prime Video Direct </strong> video Distribution Made Easy
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> Shopbop </strong> Designer Fashion Brands
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> Woot! </strong> <br /> Deals and Shenanigans
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> Zappos </strong> Shoes & Clothing
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> Ring </strong> <br /> Smart Home Security Systems
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> esro WiFi </strong> Stream 4k Video In Every Room
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> Blink </strong> Smart Security for Every Home
+            </div>
+          </div>
+
+          <div className="v1">
+            <div className='vdiv'>
+              <strong className="sl2"> Neighbors App </strong> Real-Time Crime & Safety Alerts
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> Amazon Subscription Boxes </strong> Top subscription boxes-right to your door
+            </div>
+            <div className='vdiv'>
+            <strong className="sl2"> PillPack</strong> <br /> Pharmacy Simplified
+            </div>
+            </div>
+
+          <div className="v1">
+            <div>
+              Conditions of Use Privacy Notice  Your Ads Privacy Cholces
+            </div>
+            </div>
+
+            <div className="v11">
+            <div>
+              @ 1996-2023, Amazon.com, Inc, or its affiliates
             </div>
           </div>
 

@@ -110,3 +110,12 @@
 .sl2{
     color: rgb(198, 194, 194);
 }
+
+.v11{
+    display: flex;
+    margin-left: 200px;
+    margin-right: 220px;
+    padding-bottom: 50px;
+    color: rgb(162, 162, 162);
+    justify-content: center;
+}
