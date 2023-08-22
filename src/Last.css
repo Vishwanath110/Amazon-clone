@@ -3,11 +3,17 @@
 }
 
 .backtotop{
+    text-decoration: none;
     background-color:#183d49;
     color: white;
     padding: 15px;
     cursor: pointer;
     text-align: center;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
 }
 
 .lfirst{

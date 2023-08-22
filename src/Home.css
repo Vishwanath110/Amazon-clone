@@ -6,6 +6,7 @@
     height: 100vh; 
     margin-left: 12px;
     margin-right: 12px;
+    /* mask-image: linear-gradient(to bottom,rgb(224, 205, 205),rgba(168, 152, 152, 0)); */
   }
 
   .arr{
@@ -26,5 +27,38 @@
     border: 2px solid black;
   }
   
+  .row_prod{
+    height: 300px;
+    width: 500px;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+  }
 
+  .home_row{
+    display: flex;
+  }
+  
+  img{
+    height: auto;
+    width: 100%;
+    margin: auto;
+  }
+
+  .home_line{
+    margin-top: 50px;
+    margin: 20px;
+    width: 95%;
+    font-size: 14px !important;
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+  }
+
+  .pro_head{
+    font-weight: 600;
+    font-size: 20px;
+    padding: 10px;
+  }
  

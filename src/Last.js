@@ -8,7 +8,7 @@ function Last() {
   return (
     <div>
         <div className='backtotop'>
-        Back to top
+        <Link className='link' to="/">Back to top</Link>
         </div>
 
         <div className="lastnav">
